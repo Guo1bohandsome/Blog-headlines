@@ -1,4 +1,4 @@
-# hmtt
+# niganma
 
 ## Project setup
 ```
